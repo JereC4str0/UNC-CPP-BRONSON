@@ -1,5 +1,10 @@
 # Repositorio de Estudio de C++ basado en el Libro de Gary Bronson
 
+
+<p align="center">
+  <img src="https://i.postimg.cc/02nBShDY/imagen.png">
+</p>
+
 Bienvenido a este repositorio diseñado para el estudio y aprendizaje del lenguaje de programación C++, utilizando como referencia principal el libro "C++ for Engineers and Scientists" de Gary Bronson.
 
 ## Contenido Destacado
